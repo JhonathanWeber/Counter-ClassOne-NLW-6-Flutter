@@ -1,6 +1,10 @@
 # counter_app
 
-A new Flutter project.
+## Project created at NLW#6-Flutter
+
+Purpose of the app is to pass flutter's basic concepts, teaching how to build and test a simple app that holds both states (stateless and statefull).
+
+ - includes -> an Appbar a simple counter with a setState to reconstruct the screen every iteration with floatingActionButton.
 
 ## Getting Started
 
